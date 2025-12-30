@@ -12,7 +12,7 @@
 <details>
 <summary>創世記（Genesis）</summary>
 
-- [創世記 1章](./Genesis-01.txt)  
+- [創世記 1章](./Genesis/Genesis-01.txt)  
 - [創世記 2章](./Genesis-02.txt)  
 - [創世記 3章](./Genesis-03.txt)  
 - [創世記 4章](./Genesis-04.txt)  

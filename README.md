@@ -1,3 +1,19 @@
+# LXX Japanese Translation Project
+
+This repository provides a Japanese translation of the Septuagint (LXX),  
+the ancient Greek translation of the Hebrew Bible.  
+The goal of this project is to make the LXX text accessible in Japanese,  
+based on the 1808 Charles Thomson English translation, which is in the public domain.
+
+The Septuagint is historically significant for both Judaism and early Christianity,  
+containing readings that differ from the later Masoretic Text.  
+By offering a chapter‑by‑chapter Japanese translation, this project aims to support  
+biblical study, textual comparison, and academic research.
+
+Keywords: LXX, Septuagint, Japanese translation, Bible, Greek Old Testament,  
+七十人訳, 聖書, 日本語訳
+
+---
 # LXX（七十人訳聖書）日本語訳プロジェクト
 
 ## 概要 

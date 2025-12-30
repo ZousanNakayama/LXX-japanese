@@ -1,4 +1,5 @@
-# LXX Japanese Translation Project
+# LXX Japanese Translation Project  
+※このリポジトリは七十人訳聖書（LXX）の日本語訳を公開しています。
 
 This repository provides a Japanese translation of the Septuagint (LXX),  
 the ancient Greek translation of the Hebrew Bible.  

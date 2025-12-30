@@ -8,18 +8,14 @@
 本プロジェクトでは、**世界初の英語訳である1808年のチャールズ・トムソン訳（パブリックドメイン）** をもとに、逐語訳を重視した日本語訳を進めています。
 
 ---
-## 📄 ファイル一覧（進行中）
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+## 📄 書一覧 / Books
 
-  <a href="navigation/genesis.md">創世記</a>
-  <a href="navigation/exodus.md">出エジプト記</a>
-  <a href="navigation/leviticus.md">レビ記</a>
-  <a href="navigation/numbers.md">民数記</a>
-  <a href="navigation/deuteronomy.md">申命記</a>
-
-</div>
-
+- [創世記 / Genesis](navigation/genesis.md)
+- [出エジプト記 / Exodus](navigation/exodus.md)
+- [レビ記 / Leviticus](navigation/leviticus.md)
+- [民数記 / Numbers](navigation/numbers.md)
+- [申命記 / Deuteronomy](navigation/deuteronomy.md)
 
 
 

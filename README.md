@@ -9,19 +9,12 @@
 
 ---
 ## 📄 ファイル一覧（創世記）
-<details>
-<summary>創世記（Genesis）</summary>
+- [創世記](navigation/genesis.md)
 
 
 
 
 
-
-
-
-
-
-</details>
 
 
 ---

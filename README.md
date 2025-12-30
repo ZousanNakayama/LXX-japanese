@@ -9,7 +9,16 @@
 
 ---
 ## 📄 ファイル一覧（創世記）
-- [創世記](navigation/genesis.md)
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+
+  <a href="navigation/genesis.md">創世記</a>
+  <a href="navigation/exodus.md">出エジプト記</a>
+  <a href="navigation/leviticus.md">レビ記</a>
+  <a href="navigation/numbers.md">民数記</a>
+  <a href="navigation/deuteronomy.md">申命記</a>
+
+</div>
 
 
 

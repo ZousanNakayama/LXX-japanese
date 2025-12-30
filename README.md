@@ -10,7 +10,8 @@
 ---
 
 ## 📄 書一覧 / Books
-
+このリポジトリでは、七十人訳聖書（LXX）の日本語訳を章ごとに公開しています。
+以下のリンクから各書のナビゲーションページに移動できます。
 - [創世記 / Genesis](navigation/genesis.md)
 - [出エジプト記 / Exodus](navigation/exodus.md)
 - [レビ記 / Leviticus](navigation/leviticus.md)

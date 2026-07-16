@@ -1,4 +1,4 @@
-# レビ記 / Numbers
+# 民数記 / Numbers
 
 ---
 

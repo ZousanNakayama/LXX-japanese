@@ -22,7 +22,7 @@ LXX とマソラ本文（MT）の間には、書によって本文に大きな�
 - [出エジプト記 / Exodus](navigation/exodus.md)
 - [レビ記 / Leviticus](navigation/leviticus.md)
 - [民数記 / Numbers](navigation/numbers.md)
-- [申命記 / Deuteronomy](navigation/deuteronomy.md)（準備中）
+- [申命記 / Deuteronomy](navigation/deuteronomy.md)
 
 
 ---

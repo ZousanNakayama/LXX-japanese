@@ -24,6 +24,19 @@ LXX とマソラ本文（MT）の間には、書によって本文に大きな�
 - [民数記 / Numbers](navigation/numbers.md)
 - [申命記 / Deuteronomy](navigation/deuteronomy.md)
 
+---
+
+## 📄 律法 / Lows
+律法の書かれた箇所へのリンクです。
+全部ではありませんが、十戒と祝日の規定へすぐに参照できるようにしています。
+
+- 十戒　出エジプト記　20章
+- 祝日　レビ記　23章
+
+
+
+
+
 
 ---
 ## 📖 Charles Thomson Bible とは

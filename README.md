@@ -32,7 +32,8 @@ LXX とマソラ本文（MT）の間には、書によって本文に大きな�
 
 - 十戒　　　　　[出エジプト記 20章](Exodus/Exodus-20.txt)
 - 祝日補足　　　[出エジプト記 34章](Exodus/Exodus-34.txt)
-- 安息日補足　　[出エジプト記 35章](Exodus/Exodus-35.txt) 
+- 安息日補足　　[出エジプト記 35章](Exodus/Exodus-35.txt)
+- 過越補足　　　[民数記 35章](Numbers/Numbers-09.txt)
 - 祝日　　　　　[レビ記　23章](Levi/Levi-23.txt)
 
 

@@ -30,10 +30,10 @@ LXX とマソラ本文（MT）の間には、書によって本文に大きな�
 律法の書かれた箇所へのリンクです。
 全部ではありませんが、十戒と祝日の規定へすぐに参照できるようにしています。
 
-- 十戒　　　　　[出エジプト記　12章](Exodus/Exodus-12.txt)
-- 十戒　　　　　[出エジプト記　13章](Exodus/Exodus-13.txt)
+- 過越補足　　　[出エジプト記　12章](Exodus/Exodus-12.txt)
+- 過越補足　　　[出エジプト記　13章](Exodus/Exodus-13.txt)
 - 十戒　　　　　[出エジプト記　20章](Exodus/Exodus-20.txt)
-- 十戒　　　　　[出エジプト記　23章](Exodus/Exodus-23.txt)
+- 祝日補足　　　[出エジプト記　23章](Exodus/Exodus-23.txt)
 - 祝日補足　　　[出エジプト記　34章](Exodus/Exodus-34.txt)
 - 安息日補足　　[出エジプト記　35章](Exodus/Exodus-35.txt)
 - 過越補足　　　[民数記　 9章](Numbers/Numbers-09.txt)

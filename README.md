@@ -39,7 +39,7 @@ LXX とマソラ本文（MT）の間には、書によって本文に大きな�
 - 第二の過越　　[民数記　 9章](Numbers/Numbers-09.txt)
 - 祝日補足　　　[民数記　28章](Numbers/Numbers-28.txt)
 - 祝日補足　　　[民数記　29章](Numbers/Numbers-29.txt) 
-- 祝日　　　　　[レビ記　123章](Leviticus/Leviticus-23.txt)
+- 祝日　　　　　[レビ記　123章](Leviticus/Leviticus-22.txt)
 - 祝日　　　　　[申命記　16章](Deuteronomy/Deuteronomy-16.txt)
 
 
